@@ -1,0 +1,22 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.search-bar{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 2rem;
+}
+
+.search-bar form{
+    display: flex;
+    flex-direction: column;
+}
+
+.search-bar form input{
+    font-size: 1.5rem;
+    margin:8px;
+    font-weight: 600;
+}
+
+
