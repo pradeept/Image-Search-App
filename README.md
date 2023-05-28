@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Image Search App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an React for to search for Images by making an API call.
 
 ## Available Scripts
 
